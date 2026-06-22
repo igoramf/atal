@@ -1,0 +1,75 @@
+Resumo para retomar a sessao
+============================
+
+Projeto:
+/Users/igoramf/estudos/dsa/atal/lista-1
+
+Contexto:
+Estamos estudando backtracking e forca bruta para uma prova.
+
+Arquivos principais criados/trabalhados:
+- guia_backtracking_forca_bruta.md
+- lista1-treino/
+- lista1-extra/
+
+Exercicios extras em lista1-extra:
+- 01_subconjuntos_soma_alvo.py
+- 02_gerar_senhas.py
+- 03_permutacoes_sem_repeticao.py
+- 04_escolher_time.py
+- 05_caminho_grade.py
+- 06_caminho_grade_4_direcoes.py
+- 07_divisao_dois_grupos.py
+- 07_divisao_dois_grupos_2.py
+- 08_expressoes_mais_menos.py
+- 09_parenteses_validos.py
+- 10_labirinto_menor_caminho.py
+
+Estado do estudo:
+- Foram praticados os principais padroes de backtracking:
+  - escolher / nao escolher
+  - loop em choices
+  - permutacao com used
+  - combinacao com start
+  - grid com visited
+  - contagem vs existencia
+  - menor caminho com melhor resposta e poda
+  - uso de path[:]
+  - quando precisa desfazer escolha
+
+Ultima tarefa:
+O usuario pediu para pegar questoes do repositorio:
+https://github.com/Pedro-Manoel/ATAL/tree/main/atividades/listas/lp_01
+
+Objetivo:
+Copiar/adaptar questoes desse repositorio para a pasta lista1-extra.
+
+Observacao importante:
+Nao sobrescrever os exercicios ja existentes em lista1-extra.
+
+Retomada concluida:
+Foi acessado o repositorio:
+https://github.com/Pedro-Manoel/ATAL/tree/main/atividades/listas/lp_01
+
+Arquivos encontrados na pasta lp_01:
+- A_Permutations.py / A_Permutations.pdf
+- B_Wine_trading_in_Gergovia.py / B_Wine_trading_in_Gergovia.pdf
+- C_Creating_Strings.py / C_Creating_Strings.pdf
+- D_The_Power_Sum.py / D_The_Power_Sum.pdf
+
+Enunciados adaptados e adicionados em lista1-extra sem sobrescrever arquivos anteriores:
+- 11_permutacao_bonita.md
+- 11_permutacao_bonita.py
+- 12_comercio_vinho_gergovia.md
+- 12_comercio_vinho_gergovia.py
+- 13_criando_strings.md
+- 13_criando_strings.py
+- 14_soma_de_potencias.md
+- 14_soma_de_potencias.py
+
+Estado dos arquivos .py:
+- Os arquivos .py dos exercicios 11 a 14 foram mantidos apenas como esqueletos.
+- As solucoes foram removidas para o usuario implementar.
+
+Observacao:
+Existe uma modificacao previa em lista1-treino/olimpiadas.py que nao foi alterada nesta retomada.
