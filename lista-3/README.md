@@ -14,6 +14,7 @@ Esta lista foi montada para revisao rapida antes da prova.
 - `guia_divisao_conquista_programacao_dinamica.md`: resumo dos padroes.
 - `guia_de_prova.md`: checklist rapido para resolver problemas durante a prova.
 - `plano_estudo_ate_16h.md`: roteiro objetivo para estudar ate 16h.
+- `solucoes_classicas/`: templates completos de questoes classicas para copiar e colar.
 
 ## Exercicios
 
